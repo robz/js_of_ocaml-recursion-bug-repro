@@ -1,4 +1,1 @@
-(executable
- (name Hello)
- (public_name Hello)
- (libraries console.lib lib))
+(executable (name Hello) (modes js))
