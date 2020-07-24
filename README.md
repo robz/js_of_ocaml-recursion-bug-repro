@@ -1,4 +1,4 @@
-Repro bug in js_of_ocaml involving mutual recursion
+Repro bug in js_of_ocaml involving mutual recursion, see https://github.com/ocsigen/js_of_ocaml/issues/1042
 
 Run "esy" -> see that the build hangs
 
